@@ -1,0 +1,11 @@
+{
+  "name": "sample-ec2-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Brittany <moore.brittanyann@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  app:
+    image: bam/ec2-app:v1
+    ports:
+      - 8080:8080
